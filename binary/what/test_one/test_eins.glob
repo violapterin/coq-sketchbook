@@ -1,0 +1,14 @@
+DIGEST a7f66ba39d85fa34a4104930edfbc1e4
+Fwhat.test_one.test_eins
+R8:13 Coq.ZArith.ZArith <> <> lib
+mod 24:29 <> test_1
+def 88:93 test_1 square
+R105:105 Coq.Numbers.BinNums <> Z ind
+R111:111 Coq.ZArith.BinInt <> ::Z_scope:x_'*'_x not
+R110:110 what.test_one.test_eins <> z var
+R112:112 what.test_one.test_eins <> z var
+prf 127:129 test_1 foo
+R142:144 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R134:139 what.test_one.test_eins test_1 square def
+R158:167 Coq.Init.Logic <> refl_equal syndef
+R176:181 what.test_one.test_eins test_1 <> mod

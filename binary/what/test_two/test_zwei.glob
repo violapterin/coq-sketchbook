@@ -1,0 +1,23 @@
+DIGEST df30fd678b643cf1b90670411d61701a
+Fwhat.test_two.test_zwei
+R8:13 Coq.ZArith.ZArith <> <> lib
+R24:46 what.test_one.test_eins <> <> lib
+mod 58:63 <> test_2
+def 157:161 test_2 cubic
+R173:173 Coq.Numbers.BinNums <> Z ind
+R181:181 Coq.ZArith.BinInt <> ::Z_scope:x_'*'_x not
+R179:179 Coq.ZArith.BinInt <> ::Z_scope:x_'*'_x not
+R178:178 what.test_two.test_zwei <> z var
+R180:180 what.test_two.test_zwei <> z var
+R182:182 what.test_two.test_zwei <> z var
+prf 197:199 test_2 qux
+R211:213 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R204:208 what.test_two.test_zwei test_2 cubic def
+R228:237 Coq.Init.Logic <> refl_equal syndef
+def 258:259 test_2 sq
+R264:300 what.test_one.test_eins test_1 square def
+prf 314:316 test_2 bar
+R325:327 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R321:322 what.test_two.test_zwei test_2 sq def
+R341:350 Coq.Init.Logic <> refl_equal syndef
+R359:364 what.test_two.test_zwei test_2 <> mod
